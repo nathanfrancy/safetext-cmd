@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nathanfrancy/safetext-cmd#readme",
   "dependencies": {
-    "safetext": "0.0.11"
+    "safetext": "0.0.12"
   },
   "bin": {
     "safetext": "index.js"
