@@ -1,6 +1,6 @@
 {
   "name": "safetext-cmd",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Command line interface for safetext.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nathanfrancy/safetext-cmd#readme",
   "dependencies": {
-    "safetext": "0.0.7"
+    "safetext": "0.0.11"
   },
   "bin": {
     "safetext": "index.js"
