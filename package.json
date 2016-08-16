@@ -1,0 +1,32 @@
+{
+  "name": "safetext-cmd",
+  "version": "0.0.10",
+  "description": "Command line interface for safetext.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanfrancy/safetext-cmd.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "safetext",
+    "safe",
+    "text"
+  ],
+  "author": "Nathan Francy <nathanfrancy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanfrancy/safetext-cmd/issues"
+  },
+  "homepage": "https://github.com/nathanfrancy/safetext-cmd#readme",
+  "dependencies": {
+    "safetext": "0.0.7"
+  },
+  "bin": {
+    "safetext": "index.js"
+  }
+}
